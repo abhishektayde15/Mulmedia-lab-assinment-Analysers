@@ -179,9 +179,8 @@ def main():
     print("VIDEO FILE ANALYZER")
     print("=" * 40)
 
-    video_path = "/Users/sachinyaduwanshi/Desktop/mm_lab/Multimedia-Systems-Lab/Cluster04-Video-Processing/video.mp4"
+    video_path = "video.mp4"
 
-    # Remove quotes if user copies a path with quotes
     video_path = video_path.strip('"').strip("'")
 
     analyze_video(video_path)

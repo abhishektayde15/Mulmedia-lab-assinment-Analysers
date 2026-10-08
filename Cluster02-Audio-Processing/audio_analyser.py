@@ -280,8 +280,7 @@ def main():
     print("AUDIO FILE ANALYZER")
     print("=" * 40)
 
-    audio_path = "/Users/sachinyaduwanshi/Desktop/mm_lab/audio.ogg"
-
+    audio_path = "audio.mp3"
     # Remove quotes if user copies a path with quotes
     audio_path = audio_path.strip('"').strip("'")
 
