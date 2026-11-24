@@ -156,7 +156,9 @@ def main():
     print("-" * 30)
 
     # Take image path from user
-    image_path = "C:/Users/ACER/Downloads/IC-2K22-03-MS-Abhishek/Cluster01-Image-Processing/image-Analyzer.jpg"
+    image_path = "Image-Analyzer.jpg"
     analyze_image(image_path)
+
+
 if __name__ == "__main__":
     main()

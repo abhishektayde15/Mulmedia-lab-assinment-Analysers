@@ -1,6 +1,7 @@
 # Multimedia Systems Lab
 
-**Name:** Abhishek Yaduswanshi  
+**Name:** Abhishek Tayde  
+**Roll No:** IC-2K22-03  
 **Semester:** 9th Sem  
 **Institute:** IIPS DAVV  
 
